@@ -4,6 +4,9 @@
 build/
 packages
 pubspec.lock
+.analysis_options
 
 # Directory created by dartdoc
 doc/api/
+
+.idea
