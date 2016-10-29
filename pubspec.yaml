@@ -2,7 +2,7 @@ name: just_google_signin
 description:  A Google SignIn library for Dart with an OpenID Connect support.
 version: 0.1.0
 author: Tomas Szabo <tomas.szabo@deftomat.com>
-homepage:  https://github.com/deftomat/JustGoogleSignIn
+homepage:  https://github.com/deftomat/just_google_signin
 
 environment:
   sdk: '>=1.16.0 <2.0.0'
