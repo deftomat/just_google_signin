@@ -13,7 +13,7 @@ main() async {
   var auth = await init(params);
   
   if (!auth.isSignedIn) {
-    // Shows a Google SignIn form.
+    // Show a Google SignIn form.
     await auth.signIn();
   }
   
