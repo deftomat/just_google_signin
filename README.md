@@ -23,6 +23,10 @@ main() async {
 }
 ```
 
+## Decode Google JWT
+
+You can decode a Google JWT (a.k.a. idToken) with [just_google_jwt_decoder](https://github.com/deftomat/just_google_jwt_decoder) library.
+
 ## Background
 
  - [Google OpenID Connect](https://developers.google.com/identity/protocols/OpenIDConnect)
